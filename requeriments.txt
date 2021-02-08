@@ -1,0 +1,6 @@
+#Command -> sudo pip3 install -r requeriments.txt
+## Super user do Sqlite -> wallace, teste123
+
+djangoframework == 3.1.6
+markdown == 3.3.3
+django-filter == 2.4.0
